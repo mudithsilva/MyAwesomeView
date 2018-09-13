@@ -85,6 +85,13 @@ import UIKit
         }
     }
     
+//     func roundCorners(_ corners: CACornerMask, radius: CGFloat, borderColor: UIColor, borderWidth: CGFloat) {
+//         self.layer.maskedCorners = corners
+//         self.layer.cornerRadius = radius
+//         self.layer.borderWidth = borderWidth
+//         self.layer.borderColor = borderColor.cgColor
+//     }
+    
     //    Int
     //    CGFloat
     //    Double
